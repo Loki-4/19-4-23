@@ -1,0 +1,8 @@
+length=int(input())
+width=int(input())
+print("rectangle ",length*width)
+b=int(input())
+h=int(input())
+print("triangle",((1/2)*b*h))
+s=int(input())
+print("square",s*s)
